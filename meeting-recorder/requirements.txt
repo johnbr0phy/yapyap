@@ -1,0 +1,17 @@
+# Chunk 1: Menu bar app
+rumps>=0.4.0           # Menu bar app framework (macOS)
+
+# Chunk 2: Audio recording (coming soon)
+# sounddevice>=0.4.6     # Audio capture
+# soundfile>=0.12.1      # WAV export
+
+# Chunk 3: Transcription (coming soon)
+# faster-whisper>=0.10.0 # Local transcription
+
+# Chunk 4: Google Calendar (coming soon)
+# google-api-python-client>=2.100.0  # Calendar API
+# google-auth-oauthlib>=1.1.0        # OAuth
+# keyring>=24.0.0        # Credential storage
+
+# Chunk 6: Notifications (coming soon)
+# pync>=2.0.3            # macOS notifications
